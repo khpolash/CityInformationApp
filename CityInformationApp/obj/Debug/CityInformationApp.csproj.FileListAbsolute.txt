@@ -1,0 +1,9 @@
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe.config
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.pdb
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csprojResolveAssemblyReference.cache
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.Form1.resources
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.Properties.Resources.resources
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csproj.GenerateResource.Cache
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.exe
+F:\ASP-DotNet\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.pdb
